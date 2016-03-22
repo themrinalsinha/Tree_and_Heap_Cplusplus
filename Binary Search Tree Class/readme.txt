@@ -1,0 +1,1 @@
+For this computer assignment, implement a derived class to represent a binary search tree. Since a binary search tree is also a binary tree, implement your binary search tree class from the base class of binary trees, which you implemented in your previous assignment5.
