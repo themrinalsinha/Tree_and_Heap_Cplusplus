@@ -1,0 +1,1 @@
+For this computer assignment, you are to write a C++ program to implement classes to represent a binary tree (of integers). You are required to implement assignment5.h and assignment5.cc files. assignment5.h contains the class definition of binTree, and assignment5.cc contains implementation of the main() function.
